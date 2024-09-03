@@ -1,30 +1,31 @@
-# My Name is Josh
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=My+name+is+Josh.;I+like+to+do+nerd+stuff.+;I+share+some+of+it+here.)](https://git.io/typing-svg)
 
-## I like to do nerd stuff. I share some of it here.
+#### Systems Engineer | Homelabber | Lifelong Learner
 
-#### About Me
+I have a passion for ***automation***, ***innovation*** and ***open source software***. 
 
-Systems Engineer | Homelabber | Lifelong Learner
+I don't like to do anything manually more than once. If I can figure out how to make it happen with code, I will. 
 
-I have a passion for **automation**, **innovation** and **open source software**.
+I do this stuff for fun; the terminal is my idea of a video game.  
 
-I work with: 
+I also love good coffee ☕. My espresso machine cost more 💸 than my computer.
 
-<ul>
-    <li>Linux</li>
-    <li>Azure</li>
-    <li>Ansible</li>
-    <li>PowerShell</li>
-    <li>Windows Server</li>
-    <li>Docker</li>
-    <li>Python</li>
-</ul>
+#### I work with: 
+
+💻 Linux
+☁️ Azure
+🅰️ Ansible
+🐚 PowerShell
+🖥️ Windows Server
+🐋 Docker
+🐍 Python
+ 
 
 #### Projects
-[Automating my Homelab with Ansible](https://github.com/joshrnoll/ansible-collection-homelab)
 
+[Automating my Homelab with Ansible](https://github.com/joshrnoll/ansible-collection-homelab)
 [Bastogne Automation Tool](https://github.com/joshrnoll/BAT)
 
 
 
-### Check out my [website](https://joshrnoll.com)!
+#### Check out my [website](https://joshrnoll.com)!
