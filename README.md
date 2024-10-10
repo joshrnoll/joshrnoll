@@ -2,7 +2,7 @@
 
 ### Systems Engineer | Homelabber | Lifelong Learner
 
-I have a passion for ***automation***, ***innovation*** and ***open source software***. 
+I have a passion for ```automation```, ```infrastructure-as-code``` and ```open source software```. 
 
 I don't like to do anything manually more than once. If I can figure out how to make it happen with code, I will. 
 
@@ -23,7 +23,7 @@ I also love good coffee ☕. My espresso machine cost more 💸 than my computer
 
 #### Projects
 
-[Automating my Homelab with Ansible](https://github.com/joshrnoll/ansible-collection-homelab)
+[Automating my Homelab with Ansible](https://github.com/joshrnoll/ansible-playbook-homelab)
 
 [Bastogne Automation Tool](https://github.com/joshrnoll/BAT)
 
