@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=My+name+is+Josh.;I+like+to+do+nerd+stuff.+;I+share+some+of+it+here.)](https://git.io/typing-svg)
+<img src="./logo.png" alt="logo" height="150">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=My+name+is+Josh.;I+like+to+do+nerd+stuff.+;I+share+some+of+it+here.)](https://git.io/typing-svg)
 ### Systems Engineer | Homelabber | Lifelong Learner
 
 I have a passion for ```automation```, ```infrastructure-as-code``` and ```open source software```. 
