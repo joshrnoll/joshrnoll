@@ -24,10 +24,10 @@ I also love good coffee ☕. My espresso machine cost more 💸 than my computer
 
 #### Projects
 
-[Automating my Homelab with Ansible](https://github.com/joshrnoll/ansible-playbook-homelab)
+- [Automating my Homelab with Ansible](https://github.com/joshrnoll/ansible-playbook-homelab)
 
-[Bastogne Automation Tool](https://github.com/joshrnoll/BAT)
+- [Automating Traefik with Tailscale](https://github.com/joshrnoll/ansible-playbook-traefik-tailscale)
 
-
+- [Bastogne Automation Tool](https://github.com/joshrnoll/BAT)
 
 #### Check out my [website](https://joshrnoll.com)!
