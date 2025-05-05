@@ -13,15 +13,18 @@ I do this stuff for fun; the terminal is my idea of a video game.
 I also love good coffee ☕. My espresso machine cost more 💸 than my computer.
 
 #### I work with: 
-
 💻 Linux
 ☁️ Azure
 🅰️ Ansible
-🐚 PowerShell
-🖥️ Windows Server
 🐋 Docker
+🚢 Kubernetes
 🐍 Python
- 
+
+#### I also have experience with:
+🖥️ Windows Server
+🐚 PowerShell
+🖥️ VMWare ESXi/vSphere
+☁️ Cisco networking
 
 #### Projects
 
