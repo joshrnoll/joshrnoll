@@ -6,7 +6,7 @@
 
 I have a passion for solving problems with technology. 
 
-I like to tinker with ```automation```, ```infrastructure-as-code``` and ```open source software```. 
+I like to play with ```cloud```, ```code``` and ```containerization```. I'm also a big fan of open-source.
 
 I do this stuff for fun; the terminal is my idea of a video game.  
 
