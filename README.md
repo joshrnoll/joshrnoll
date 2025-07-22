@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=My+name+is+Josh.;I+like+to+do+nerd+stuff.+;I+share+some+of+it+here.)](https://git.io/typing-svg)
 
-### Systems Engineer | Homelabber | Lifelong Learner
+### DevOps Enthusiast | Homelabber | Girl Dad | Lifelong Learner
 
-I have a passion for solving problems with technology. 
+I have a passion for solving problems with technology.
 
 I like to play with ```cloud```, ```code``` and ```containerization```. I'm also a big fan of open-source.
 
-I do this stuff for fun; the terminal is my idea of a video game.  
+I do this stuff for fun; the terminal is my idea of a video game.
 
 I also love good coffee ☕. My espresso machine cost more 💸 than my computer.
 
-#### I work with: 
+#### I work with:
 💻 Linux
 ☁️ Azure
 🅰️ Ansible
